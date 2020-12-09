@@ -1,0 +1,184 @@
+[
+  {
+    "chapter_number": "1",
+    "chapter_title": "Kotlin语言与开发环境",
+    "chapter_sub_title": [
+      {
+        "chapter_number": "1.1",
+        "chapter_title": "Kotlin语言简介",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "1.1.1",
+            "chapter_title": "服务端的Kotlin"
+          },
+          {
+            "chapter_number": "1.1.2",
+            "chapter_title": "使用Kotlin开发Android应用"
+          },
+          {
+            "chapter_number": "1.1.3",
+            "chapter_title": "Kotlin用于JavaScript"
+          }
+        ]
+      },
+      {
+        "chapter_number": "1.2",
+        "chapter_title": "使用命令行编译、运行Kotlin",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "1.2.1",
+            "chapter_title": "下载和安装Kotlin的SDK"
+          },
+          {
+            "chapter_number": "1.2.2",
+            "chapter_title": "第一个Kotlin程序"
+          },
+          {
+            "chapter_number": "1.2.3",
+            "chapter_title": "编译运行Kotlin程序"
+          }
+        ]
+      },
+      {
+        "chapter_number": "1.3",
+        "chapter_title": "使用IntelliJ IDEA编译、运行Kotlin"
+      },
+      {
+        "chapter_number": "1.4",
+        "chapter_title": "使用Eclipse编译、运行Kotlin"
+      },
+      {
+        "chapter_number": "1.5",
+        "chapter_title": "本章小结"
+      }
+    ]
+  },
+  {
+    "chapter_number": "2",
+    "chapter_title": "Kotlin的基础类型",
+    "chapter_sub_title": [
+      {
+        "chapter_number": "2.1",
+        "chapter_title": "注释",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "2.1.1",
+            "chapter_title": "单行注释和多行注释"
+          },
+          {
+            "chapter_number": "2.1.2",
+            "chapter_title": "文档注释"
+          }
+        ]
+      },
+      {
+        "chapter_number": "2.2",
+        "chapter_title": "变量",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "2.2.1",
+            "chapter_title": "分隔符"
+          },
+          {
+            "chapter_number": "2.2.2",
+            "chapter_title": "标识符规则"
+          },
+          {
+            "chapter_number": "2.2.3",
+            "chapter_title": "Kotlin的关键字"
+          },
+          {
+            "chapter_number": "2.2.4",
+            "chapter_title": "声明变量"
+          }
+        ]
+      },
+      {
+        "chapter_number": "2.3",
+        "chapter_title": "整型"
+      },
+      {
+        "chapter_number": "2.4",
+        "chapter_title": "浮点型"
+      },
+      {
+        "chapter_number": "2.5",
+        "chapter_title": "字符型"
+      },
+      {
+        "chapter_number": "2.6",
+        "chapter_title": "数值型之间的类型转换",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "2.6.1",
+            "chapter_title": "整型之间的转换"
+          },
+          {
+            "chapter_number": "2.6.2",
+            "chapter_title": "浮点型与整型之间的转换"
+          },
+          {
+            "chapter_number": "2.6.3",
+            "chapter_title": "表达式类型的自动提升"
+          }
+        ]
+      },
+      {
+        "chapter_number": "2.7",
+        "chapter_title": "Boolean类型"
+      },
+      {
+        "chapter_number": "2.8",
+        "chapter_title": "null安全",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "2.8.1",
+            "chapter_title": "非空类型和可空类型"
+          },
+          {
+            "chapter_number": "2.8.2",
+            "chapter_title": "先判断后使用"
+          },
+          {
+            "chapter_number": "2.8.3",
+            "chapter_title": "安全调用"
+          },
+          {
+            "chapter_number": "2.8.4",
+            "chapter_title": "Elvis运算"
+          },
+          {
+            "chapter_number": "2.8.5",
+            "chapter_title": "强制调用"
+          }
+        ]
+      },
+      {
+        "chapter_number": "2.9",
+        "chapter_title": "字符串",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "2.9.1",
+            "chapter_title": "字符串类型"
+          },
+          {
+            "chapter_number": "2.9.2",
+            "chapter_title": "字符串模板"
+          },
+          {
+            "chapter_number": "2.9.3",
+            "chapter_title": "Kotlin字符串的方法"
+          }
+        ]
+      },
+      {
+        "chapter_number": "2.10",
+        "chapter_title": "类型别名"
+      },
+      {
+        "chapter_number": "2.11",
+        "chapter_title": "本章小结"
+      }
+    ]
+  }
+]

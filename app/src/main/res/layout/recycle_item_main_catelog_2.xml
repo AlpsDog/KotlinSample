@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:gravity="center_vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingLeft="32dp"
+    android:paddingRight="12dp">
+
+    <TextView
+        android:id="@+id/chapter_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="1.1"
+        android:textColor="#444444"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/chapter_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="kotlin语言简介"
+        android:textColor="#444444"
+        android:textSize="15sp"
+        android:layout_marginLeft="10dp"
+        android:singleLine="true"
+        android:ellipsize="end" />
+</LinearLayout>
