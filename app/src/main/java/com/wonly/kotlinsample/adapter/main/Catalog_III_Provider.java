@@ -2,6 +2,7 @@ package com.wonly.kotlinsample.adapter.main;
 
 import android.content.Intent;
 import android.view.View;
+import android.widget.Toast;
 
 import com.chad.library.adapter.base.entity.node.BaseNode;
 import com.chad.library.adapter.base.provider.BaseNodeProvider;
@@ -45,7 +46,12 @@ public class Catalog_III_Provider extends BaseNodeProvider {
     public void onClick(@NotNull BaseViewHolder helper, @NotNull View view, BaseNode data, int position) {
         Catalog_III catalogIii = (Catalog_III) data;
         String catalogNum = catalogIii.getCatalogNum();
-        startActivity(CatalogManage.getChapterCls(catalogNum));
+        Class<?> chapterCls = CatalogManage.getChapterCls(catalogNum);
+        if (chapterCls != null){
+            startActivity(chapterCls);
+        } else {
+            Toast.makeText(context, "学习中，敬请期待", Toast.LENGTH_SHORT).show();
+        }
     }
 
     private void startActivity(Class<?> cls) {

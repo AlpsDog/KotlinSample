@@ -4,12 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".ui.chapter_2.Chapter23Activity">
+    tools:context=".ui.chapter_2.Chapter24Activity">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/chapter_23_img"
-        android:scaleType="fitCenter" />
-
+        android:src="@drawable/chapter_24_img" />
 </LinearLayout>
