@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView recyclerView = findViewById(R.id.catalog_rv);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         mainCatalogRvAdapter = new MainCatalogRvAdapter();
+        mainCatalogRvAdapter.setAnimationEnable(true);
         recyclerView.setAdapter(mainCatalogRvAdapter);
     }
 

@@ -1,8 +1,12 @@
 package com.wonly.kotlinsample.adapter.main;
 
+import android.content.Intent;
+import android.view.View;
+
 import com.chad.library.adapter.base.entity.node.BaseNode;
 import com.chad.library.adapter.base.provider.BaseNodeProvider;
 import com.chad.library.adapter.base.viewholder.BaseViewHolder;
+import com.wonly.kotlinsample.CatalogManage;
 import com.wonly.kotlinsample.R;
 import com.wonly.kotlinsample.beans.Catalog_III;
 
@@ -35,6 +39,18 @@ public class Catalog_III_Provider extends BaseNodeProvider {
         Catalog_III catalogIii = (Catalog_III) baseNode;
         baseViewHolder.setText(R.id.chapter_number, String.valueOf(catalogIii.getCatalogNum()));
         baseViewHolder.setText(R.id.chapter_name, catalogIii.getCatalogName());
+    }
+
+    @Override
+    public void onClick(@NotNull BaseViewHolder helper, @NotNull View view, BaseNode data, int position) {
+        Catalog_III catalogIii = (Catalog_III) data;
+        String catalogNum = catalogIii.getCatalogNum();
+        startActivity(CatalogManage.getChapterCls(catalogNum));
+    }
+
+    private void startActivity(Class<?> cls) {
+        Intent starter = new Intent(getContext(), cls);
+        getContext().startActivity(starter);
     }
 
 }
