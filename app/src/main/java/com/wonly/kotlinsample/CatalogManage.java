@@ -13,6 +13,9 @@ import com.wonly.kotlinsample.ui.chapter_2.Chapter282Activity;
 import com.wonly.kotlinsample.ui.chapter_2.Chapter283Activity;
 import com.wonly.kotlinsample.ui.chapter_2.Chapter284Activity;
 import com.wonly.kotlinsample.ui.chapter_2.Chapter285Activity;
+import com.wonly.kotlinsample.ui.chapter_2.Chapter291Activity;
+import com.wonly.kotlinsample.ui.chapter_2.Chapter292Activity;
+import com.wonly.kotlinsample.ui.chapter_2.Chapter293Activity;
 
 import java.util.HashMap;
 
@@ -42,6 +45,9 @@ public class CatalogManage {
         catalogMap.put("2.8.3", Chapter283Activity.class);
         catalogMap.put("2.8.4", Chapter284Activity.class);
         catalogMap.put("2.8.5", Chapter285Activity.class);
+        catalogMap.put("2.9.1", Chapter291Activity.class);
+        catalogMap.put("2.9.2", Chapter292Activity.class);
+        catalogMap.put("2.9.3", Chapter293Activity.class);
     }
 
     public static Class<?> getChapterCls(String catalogNum) {
