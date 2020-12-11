@@ -20,6 +20,8 @@ class Chapter224Activity : AppCompatActivity() {
     /**
      * kotlin不强制每条语句必须以分号（;）结尾
      * 用（:类型）指定变量类型
+     * 声明变量使用：var、val
+     * 格式：var|val 变量名 [:类型] [=初始值]
      */
     fun test() {
         // 声明变量时，必须显式或者隐式指定变量类型

@@ -3,7 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".ui.chapter_2.Chapter224Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="格式：var|val 变量名 [:类型] [=初始值]"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="12dp" />
 
     <ImageView
         android:layout_width="match_parent"
