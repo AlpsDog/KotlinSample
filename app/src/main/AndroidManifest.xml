@@ -10,7 +10,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.chapter_2.Chapter2_11Activity"></activity>
+        <activity android:name=".ui.chapter_3.Chapter319Activity"></activity>
+        <activity android:name=".ui.chapter_3.Chapter318Activity" />
+        <activity android:name=".ui.chapter_3.Chapter317Activity" />
+        <activity android:name=".ui.chapter_3.Chapter316Activity" />
+        <activity android:name=".ui.chapter_3.Chapter315Activity" />
+        <activity android:name=".ui.chapter_3.Chapter314Activity" />
+        <activity android:name=".ui.chapter_3.Chapter313Activity" />
+        <activity android:name=".ui.chapter_3.Chapter312Activity" />
+        <activity android:name=".ui.chapter_3.Chapter311Activity" />
+        <activity android:name=".ui.chapter_2.Chapter2_11Activity" />
         <activity android:name=".ui.chapter_2.Chapter2_10Activity" />
         <activity android:name=".ui.chapter_2.Chapter293Activity" />
         <activity android:name=".ui.chapter_2.Chapter292Activity" />

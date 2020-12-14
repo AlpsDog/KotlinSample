@@ -16,6 +16,15 @@ import com.wonly.kotlinsample.ui.chapter_2.Chapter285Activity;
 import com.wonly.kotlinsample.ui.chapter_2.Chapter291Activity;
 import com.wonly.kotlinsample.ui.chapter_2.Chapter292Activity;
 import com.wonly.kotlinsample.ui.chapter_2.Chapter293Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter311Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter312Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter313Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter314Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter315Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter316Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter317Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter318Activity;
+import com.wonly.kotlinsample.ui.chapter_3.Chapter319Activity;
 
 import java.util.HashMap;
 
@@ -48,6 +57,15 @@ public class CatalogManage {
         catalogMap.put("2.9.1", Chapter291Activity.class);
         catalogMap.put("2.9.2", Chapter292Activity.class);
         catalogMap.put("2.9.3", Chapter293Activity.class);
+        catalogMap.put("3.1.1", Chapter311Activity.class);
+        catalogMap.put("3.1.2", Chapter312Activity.class);
+        catalogMap.put("3.1.3", Chapter313Activity.class);
+        catalogMap.put("3.1.4", Chapter314Activity.class);
+        catalogMap.put("3.1.5", Chapter315Activity.class);
+        catalogMap.put("3.1.6", Chapter316Activity.class);
+        catalogMap.put("3.1.7", Chapter317Activity.class);
+        catalogMap.put("3.1.8", Chapter318Activity.class);
+        catalogMap.put("3.1.9", Chapter319Activity.class);
     }
 
     public static Class<?> getChapterCls(String catalogNum) {

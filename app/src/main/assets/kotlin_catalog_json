@@ -180,5 +180,97 @@
         "chapter_title": "本章小结"
       }
     ]
+  },
+  {
+    "chapter_number": "3",
+    "chapter_title": "运算符和表达式",
+    "chapter_sub_title": [
+      {
+        "chapter_number": "3.1",
+        "chapter_title": "与Java相同的运算符",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "3.1.1",
+            "chapter_title": "单目前缀运算符"
+          },
+          {
+            "chapter_number": "3.1.2",
+            "chapter_title": "自加和自减运算符"
+          },
+          {
+            "chapter_number": "3.1.3",
+            "chapter_title": "双目算术运算符"
+          },
+          {
+            "chapter_number": "3.1.4",
+            "chapter_title": "in和!in运算符"
+          },
+          {
+            "chapter_number": "3.1.5",
+            "chapter_title": "索引访问运算符"
+          },
+          {
+            "chapter_number": "3.1.6",
+            "chapter_title": "调用运算符"
+          },
+          {
+            "chapter_number": "3.1.7",
+            "chapter_title": "广义赋值运算符"
+          },
+          {
+            "chapter_number": "3.1.8",
+            "chapter_title": "相等与不等运算符"
+          },
+          {
+            "chapter_number": "3.1.9",
+            "chapter_title": "比较运算符运算符"
+          }
+        ]
+      },
+      {
+        "chapter_number": "3.2",
+        "chapter_title": "位运算符"
+      },
+      {
+        "chapter_number": "3.3",
+        "chapter_title": "区间运算符",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "3.3.1",
+            "chapter_title": "闭区间运算符"
+          },
+          {
+            "chapter_number": "3.3.2",
+            "chapter_title": "半开区间运算符"
+          },
+          {
+            "chapter_number": "3.3.3",
+            "chapter_title": "反向区间"
+          },
+          {
+            "chapter_number": "3.3.4",
+            "chapter_title": "区间步长"
+          }
+        ]
+      },
+      {
+        "chapter_number": "3.4",
+        "chapter_title": "运算符重载",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "3.4.1",
+            "chapter_title": "重载单目前缀运算符"
+          },
+          {
+            "chapter_number": "3.4.2",
+            "chapter_title": "重载自加和自减运算符"
+          },
+          {
+            "chapter_number": "3.4.3",
+            "chapter_title": "重载双目算术运算符"
+          }
+        ]
+      }
+    ]
   }
 ]
