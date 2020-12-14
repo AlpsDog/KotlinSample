@@ -233,25 +233,7 @@
       },
       {
         "chapter_number": "3.3",
-        "chapter_title": "区间运算符",
-        "chapter_sub_title": [
-          {
-            "chapter_number": "3.3.1",
-            "chapter_title": "闭区间运算符"
-          },
-          {
-            "chapter_number": "3.3.2",
-            "chapter_title": "半开区间运算符"
-          },
-          {
-            "chapter_number": "3.3.3",
-            "chapter_title": "反向区间"
-          },
-          {
-            "chapter_number": "3.3.4",
-            "chapter_title": "区间步长"
-          }
-        ]
+        "chapter_title": "区间运算符"
       },
       {
         "chapter_number": "3.4",
