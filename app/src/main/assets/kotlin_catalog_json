@@ -338,5 +338,165 @@
         ]
       }
     ]
+  },
+  {
+    "chapter_number": "5",
+    "chapter_title": "数组和集合"
+  },
+  {
+    "chapter_number": "6",
+    "chapter_title": "函数和Lambda表达式",
+    "chapter_sub_title": [
+      {
+        "chapter_number": "6.1",
+        "chapter_title": "函数入门",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.1.1",
+            "chapter_title": "定义和调用函数"
+          },
+          {
+            "chapter_number": "6.1.2",
+            "chapter_title": "函数返回值和Unit"
+          },
+          {
+            "chapter_number": "6.1.3",
+            "chapter_title": "递归函数"
+          },
+          {
+            "chapter_number": "6.1.4",
+            "chapter_title": "但表达式函数"
+          }
+        ]
+      },
+      {
+        "chapter_number": "6.2",
+        "chapter_title": "函数的形参",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.2.1",
+            "chapter_title": "命名参数"
+          },
+          {
+            "chapter_number": "6.2.2",
+            "chapter_title": "形参默认值"
+          },
+          {
+            "chapter_number": "6.2.3",
+            "chapter_title": "尾递归函数"
+          },
+          {
+            "chapter_number": "6.2.4",
+            "chapter_title": "个数可变的形参"
+          }
+        ]
+      },
+      {
+        "chapter_number": "6.3",
+        "chapter_title": "函数重载"
+      },
+      {
+        "chapter_number": "6.4",
+        "chapter_title": "局部函数"
+      },
+      {
+        "chapter_number": "6.5",
+        "chapter_title": "高阶函数",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.5.1",
+            "chapter_title": "使用函数类型"
+          },
+          {
+            "chapter_number": "6.5.2",
+            "chapter_title": "使用函数类型作为形参类型"
+          },
+          {
+            "chapter_number": "6.5.3",
+            "chapter_title": "使用函数类型作为返回值类型"
+          }
+        ]
+      },
+      {
+        "chapter_number": "6.6",
+        "chapter_title": "局部函数与Lambda表达式",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.6.1",
+            "chapter_title": "回顾局部函数"
+          },
+          {
+            "chapter_number": "6.6.2",
+            "chapter_title": "使用Lambda表达式代替局部函数"
+          },
+          {
+            "chapter_number": "6.6.3",
+            "chapter_title": "Lambda表达式的脱离"
+          }
+        ]
+      },
+      {
+        "chapter_number": "6.7",
+        "chapter_title": "Lambda表达式",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.7.1",
+            "chapter_title": "调用Lambda表达式"
+          },
+          {
+            "chapter_number": "6.7.2",
+            "chapter_title": "利用上下文推断类型"
+          },
+          {
+            "chapter_number": "6.7.3",
+            "chapter_title": "省略形参名"
+          },
+          {
+            "chapter_number": "6.7.4",
+            "chapter_title": "调用Lambda表达式的约定"
+          },
+          {
+            "chapter_number": "6.7.5",
+            "chapter_title": "个数可变的参数和Lambda参数"
+          }
+        ]
+      },
+      {
+        "chapter_number": "6.8",
+        "chapter_title": "匿名函数",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.8.1",
+            "chapter_title": "匿名函数的方法"
+          },
+          {
+            "chapter_number": "6.8.2",
+            "chapter_title": "匿名函数和Lambda表达式的return"
+          }
+        ]
+      },
+      {
+        "chapter_number": "6.9",
+        "chapter_title": "捕获上下文中的变量和常量"
+      },
+      {
+        "chapter_number": "6.10",
+        "chapter_title": "内联函数",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "6.10.1",
+            "chapter_title": "内联函数的使用"
+          },
+          {
+            "chapter_number": "6.10.2",
+            "chapter_title": "部分禁止内联"
+          },
+          {
+            "chapter_number": "6.10.3",
+            "chapter_title": "非局部返回"
+          }
+        ]
+      }
+    ]
   }
 ]
