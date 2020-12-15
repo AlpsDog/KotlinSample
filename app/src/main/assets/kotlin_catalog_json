@@ -254,5 +254,89 @@
         ]
       }
     ]
+  },
+  {
+    "chapter_number": "4",
+    "chapter_title": "流程控制",
+    "chapter_sub_title": [
+      {
+        "chapter_number": "4.1",
+        "chapter_title": "顺序结构"
+      },
+      {
+        "chapter_number": "4.2",
+        "chapter_title": "分支结构",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "4.2.1",
+            "chapter_title": "if分支"
+          },
+          {
+            "chapter_number": "4.2.2",
+            "chapter_title": "if表达式"
+          },
+          {
+            "chapter_number": "4.2.3",
+            "chapter_title": "when分支语句"
+          },
+          {
+            "chapter_number": "4.2.4",
+            "chapter_title": "when表达式"
+          },
+          {
+            "chapter_number": "4.2.5",
+            "chapter_title": "when分支处理范围"
+          },
+          {
+            "chapter_number": "4.2.6",
+            "chapter_title": "when分支处理类型"
+          },
+          {
+            "chapter_number": "4.2.7",
+            "chapter_title": "when条件分支"
+          }
+        ]
+      },
+      {
+        "chapter_number": "4.3",
+        "chapter_title": "循环结构",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "4.3.1",
+            "chapter_title": "while循环"
+          },
+          {
+            "chapter_number": "4.3.2",
+            "chapter_title": "do while循环"
+          },
+          {
+            "chapter_number": "4.3.3",
+            "chapter_title": "for in循环"
+          },
+          {
+            "chapter_number": "4.3.4",
+            "chapter_title": "嵌套循环"
+          }
+        ]
+      },
+      {
+        "chapter_number": "4.4",
+        "chapter_title": "控制循环结构",
+        "chapter_sub_title": [
+          {
+            "chapter_number": "4.4.1",
+            "chapter_title": "使用break结束循环"
+          },
+          {
+            "chapter_number": "4.4.2",
+            "chapter_title": "使用continue忽略本次循环的剩下语句"
+          },
+          {
+            "chapter_number": "4.4.3",
+            "chapter_title": "使用return结束方法"
+          }
+        ]
+      }
+    ]
   }
 ]
