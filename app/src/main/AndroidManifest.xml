@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.chapter_6.Chapter612Activity"></activity>
+        <activity android:name=".ui.chapter_6.Chapter614Activity"></activity>
+        <activity android:name=".ui.chapter_6.Chapter612Activity" />
         <activity android:name=".ui.chapter_6.Chapter611Activity" />
         <activity android:name=".ui.chapter_4.Chapter433Activity" />
         <activity android:name=".ui.chapter_4.Chapter427Activity" />
