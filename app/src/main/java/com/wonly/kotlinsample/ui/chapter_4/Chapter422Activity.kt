@@ -41,5 +41,4 @@ class Chapter422Activity : AppCompatActivity() {
         println(desc)
     }
 
-
 }
