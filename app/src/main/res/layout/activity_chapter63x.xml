@@ -3,10 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.chapter_6.Chapter624Activity">
+    tools:context=".ui.chapter_6.Chapter63xActivity">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/chapter_624_img" />
+        android:src="@drawable/chapter_63x_img" />
 </LinearLayout>
