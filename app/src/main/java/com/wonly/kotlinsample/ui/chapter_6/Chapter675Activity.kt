@@ -32,6 +32,7 @@ class Chapter675Activity : AppCompatActivity() {
         println(testLambda)
         println(testLambda2)
 
+        // 如果仅有一个形参，甚至可以省略形参名，"->"也不需要了，变量此时仅能用"it"代替
         var testLambda3 = testLambda("Java", "Kotlin", "go") { "疯狂${it}讲义" }
         println(testLambda3)
     }
