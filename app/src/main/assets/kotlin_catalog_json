@@ -481,21 +481,7 @@
       },
       {
         "chapter_number": "6.10",
-        "chapter_title": "内联函数",
-        "chapter_sub_title": [
-          {
-            "chapter_number": "6.10.1",
-            "chapter_title": "内联函数的使用"
-          },
-          {
-            "chapter_number": "6.10.2",
-            "chapter_title": "部分禁止内联"
-          },
-          {
-            "chapter_number": "6.10.3",
-            "chapter_title": "非局部返回"
-          }
-        ]
+        "chapter_title": "内联函数"
       }
     ]
   }
